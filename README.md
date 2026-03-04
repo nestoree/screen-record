@@ -27,7 +27,7 @@ pip install pipwin y luego pipwin install pyaudio.
 Ejecuta el script principal:
 
 ```
-python nombre_del_archivo.py
+python screen-record.py
 ```
 
 - Selecciona tu monitor: Verás una lista de pantallas detectadas. Introduce el número (0, 1, etc.).
